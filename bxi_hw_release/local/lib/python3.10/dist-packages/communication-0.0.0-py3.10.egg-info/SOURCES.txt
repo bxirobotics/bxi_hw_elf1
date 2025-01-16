@@ -4,12 +4,3 @@ communication.egg-info/PKG-INFO
 communication.egg-info/SOURCES.txt
 communication.egg-info/dependency_links.txt
 communication.egg-info/top_level.txt
-communication/msg/__init__.py
-communication/msg/_actuator_cmds.py
-communication/msg/_motion_commands.py
-communication/msg/_state_estimator.py
-communication/msg/_touch_sensor.py
-communication/srv/__init__.py
-communication/srv/_gait_switch.py
-communication/srv/_robot_reset.py
-communication/srv/_simulation_reset.py
