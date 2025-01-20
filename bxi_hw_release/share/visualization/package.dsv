@@ -1,6 +1,9 @@
 source;share/visualization/hook/cmake_prefix_path.ps1
 source;share/visualization/hook/cmake_prefix_path.dsv
 source;share/visualization/hook/cmake_prefix_path.sh
+source;share/visualization/hook/ld_library_path_lib.ps1
+source;share/visualization/hook/ld_library_path_lib.dsv
+source;share/visualization/hook/ld_library_path_lib.sh
 source;share/visualization/local_setup.bash
 source;share/visualization/local_setup.dsv
 source;share/visualization/local_setup.ps1
