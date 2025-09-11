@@ -14,6 +14,7 @@ setup(
         ('share/' + package_name + '/launch', ['launch/example_launch.py']),
         ('share/' + package_name + '/launch', ['launch/example_launch_hw.py']),
         ('share/' + package_name + '/launch', ['launch/example_launch_hw_slope.py']),
+        ('share/' + package_name + '/launch', ['launch/example_launch_hw_ankle.py']),
     ],
     install_requires=['setuptools'],
     zip_safe=True,
