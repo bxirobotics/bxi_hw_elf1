@@ -1,8 +1,9 @@
-# bxi_hw_sdk
+# bxi_hw_elf1
 
 ## 简介
 
-本仓库是半醒科技有限公司机器人软件仓库，提供机器人控制程序以及开发示例，基于`ROS2`开发，主要包含以下几个包（除`bxi_example`包外均为二进制发布）：
+**仅用于BXI Robotics Elf1 机器人. **     
+本仓库包含控制程序以及开发示例，基于`ROS2`开发，主要包含以下几个包（除`bxi_example`包外均为二进制发布）：
 * 二进制包，位于 `bxi_hw_release/`目录：    
 1. `communication`：机器人通信包定义，包含自定义的通信包格式，`src/`目录下有相应源码，仅供参考使用，包已经编译进`bxi_hw_release/`目录
 2. `description`:机器人描述文件，包含机器人`urdf`文件以及`meshe`文件
